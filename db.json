@@ -31,12 +31,5 @@
     "price": 695,
     "title": "Yellow shoes"
   },
-  {
-    "category": "Shoes",
-    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-    "id": "12",
-    "image": "https://images.unsplash.com/photo-1618860202521-71e9f4bdcfaa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=967&q=80",
-    "price": 114,
-    "title": "Red shoe"
-  },
+ 
  ]
